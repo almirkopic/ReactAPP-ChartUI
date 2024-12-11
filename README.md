@@ -25,3 +25,5 @@ Follow the steps below to set up and run the project:
    ```bash
    git clone https://github.com/almirkopic/ReactAPP-ChartUI.git
    cd ReactAPP-ChartUI
+
+   run command "npm install" and start server with "npm start"
